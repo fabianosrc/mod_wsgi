@@ -16,8 +16,6 @@ Precompiled **mod_wsgi 3.4** modules for **Apache 2.4** on Windows (x86 and x64)
 
 This repository redistributes compiled binaries only.
 
-Original project: https://github.com/GrahamDumpleton/mod_wsgi
-
 ---
 
 ## Contents
